@@ -1,0 +1,1 @@
+# my test plain text file and 1st file in Git project.
